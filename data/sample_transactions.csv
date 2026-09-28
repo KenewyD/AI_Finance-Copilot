@@ -1,0 +1,442 @@
+date,categorie,montant,mode_paiement,statut
+2026-01-01,Déplacements,277.78,Prélèvement,Validée
+2026-01-02,Logiciels,65.31,Prélèvement,À vérifier
+2026-01-02,Prestataires,845.0,Prélèvement,Validée
+2026-01-02,Déplacements,279.89,Prélèvement,Validée
+2026-01-03,Déplacements,153.83,Prélèvement,Validée
+2026-01-03,Logiciels,156.89,Virement,Validée
+2026-01-04,Prestataires,647.42,CB,À vérifier
+2026-01-04,Télécom,68.01,Prélèvement,Validée
+2026-01-04,Déplacements,248.14,Virement,Validée
+2026-01-05,Prestataires,729.09,Prélèvement,Validée
+2026-01-05,Déplacements,267.43,CB,À vérifier
+2026-01-05,Logiciels,84.71,CB,Validée
+2026-01-06,Prestataires,1071.12,CB,À vérifier
+2026-01-07,Marketing,383.54,Prélèvement,Validée
+2026-01-07,Déplacements,236.84,Prélèvement,Validée
+2026-01-07,Logiciels,148.51,Prélèvement,À vérifier
+2026-01-08,Prestataires,1037.81,Virement,Validée
+2026-01-09,Déplacements,170.81,Prélèvement,Validée
+2026-01-09,Logiciels,83.64,CB,Validée
+2026-01-10,Fournitures,79.45,Virement,Validée
+2026-01-10,Fournitures,112.4,Prélèvement,Validée
+2026-01-11,Déplacements,286.06,CB,Validée
+2026-01-11,Télécom,48.27,Virement,À vérifier
+2026-01-11,Marketing,524.92,CB,Validée
+2026-01-12,Fournitures,94.99,Prélèvement,Validée
+2026-01-12,Déplacements,255.17,CB,Validée
+2026-01-12,Logiciels,103.97,Prélèvement,Validée
+2026-01-13,Logiciels,120.52,Virement,À vérifier
+2026-01-13,Prestataires,1047.95,CB,Validée
+2026-01-13,Marketing,486.05,Virement,Validée
+2026-01-14,Logiciels,64.45,Virement,À vérifier
+2026-01-14,Télécom,54.65,Virement,Validée
+2026-01-15,Prestataires,1069.41,Prélèvement,À vérifier
+2026-01-15,Marketing,333.75,Virement,Validée
+2026-01-15,Déplacements,87.0,Prélèvement,Validée
+2026-01-15,Fournitures,71.28,CB,Validée
+2026-01-16,Prestataires,692.48,Virement,Validée
+2026-01-16,Prestataires,1326.53,CB,Validée
+2026-01-16,Logiciels,127.53,Prélèvement,Validée
+2026-01-16,Déplacements,284.3,Virement,Validée
+2026-01-17,Fournitures,69.85,CB,Validée
+2026-01-17,Fournitures,46.63,Prélèvement,Validée
+2026-01-17,Logiciels,58.23,Virement,Validée
+2026-01-18,Prestataires,1099.34,CB,Validée
+2026-01-18,Déplacements,251.91,CB,Validée
+2026-01-19,Marketing,357.74,Virement,Validée
+2026-01-19,Déplacements,209.16,Virement,Validée
+2026-01-19,Télécom,75.56,Prélèvement,Validée
+2026-01-20,Logiciels,99.58,CB,Validée
+2026-01-20,Prestataires,1375.96,Prélèvement,À vérifier
+2026-01-20,Logiciels,99.03,Prélèvement,Validée
+2026-01-21,Fournitures,157.05,CB,Validée
+2026-01-22,Prestataires,581.38,CB,À vérifier
+2026-01-22,Marketing,472.59,Prélèvement,Validée
+2026-01-22,Formation,346.84,Virement,Validée
+2026-01-22,Déplacements,121.6,CB,À vérifier
+2026-01-23,Télécom,76.68,Prélèvement,Validée
+2026-01-24,Marketing,538.39,Virement,Validée
+2026-01-24,Déplacements,253.01,Prélèvement,Validée
+2026-01-24,Marketing,285.72,Prélèvement,Validée
+2026-01-25,Télécom,74.97,CB,Validée
+2026-01-26,Fournitures,55.13,CB,Validée
+2026-01-27,Formation,299.46,Prélèvement,Validée
+2026-01-27,Logiciels,179.11,CB,Validée
+2026-01-27,Prestataires,240.07,CB,Validée
+2026-01-27,Prestataires,487.4,Virement,Validée
+2026-01-28,Prestataires,1122.48,CB,Validée
+2026-01-29,Logiciels,140.52,CB,Validée
+2026-01-29,Marketing,675.48,Virement,Validée
+2026-01-29,Formation,283.78,Virement,À vérifier
+2026-01-29,Logiciels,130.18,Prélèvement,Validée
+2026-01-30,Logiciels,123.8,Prélèvement,Validée
+2026-01-30,Formation,497.07,CB,À vérifier
+2026-01-30,Prestataires,414.63,Virement,À vérifier
+2026-01-31,Logiciels,89.38,CB,Validée
+2026-01-31,Marketing,471.53,Prélèvement,À vérifier
+2026-01-31,Télécom,141.91,Virement,Validée
+2026-01-31,Déplacements,306.54,Virement,Validée
+2026-02-01,Télécom,38.92,Virement,Validée
+2026-02-01,Marketing,308.06,Prélèvement,À vérifier
+2026-02-01,Logiciels,70.79,Virement,Validée
+2026-02-02,Télécom,52.37,CB,À vérifier
+2026-02-02,Formation,345.65,CB,Validée
+2026-02-03,Logiciels,62.25,Virement,Validée
+2026-02-03,Logiciels,129.75,Prélèvement,Validée
+2026-02-04,Prestataires,896.24,Virement,À vérifier
+2026-02-04,Fournitures,90.0,CB,À vérifier
+2026-02-05,Logiciels,115.91,CB,Validée
+2026-02-05,Fournitures,102.15,CB,Validée
+2026-02-05,Déplacements,240.11,Prélèvement,Validée
+2026-02-05,Télécom,87.36,Virement,À vérifier
+2026-02-06,Télécom,92.72,CB,Validée
+2026-02-06,Prestataires,928.46,Prélèvement,Validée
+2026-02-06,Prestataires,4915.26,Virement,À vérifier
+2026-02-07,Fournitures,136.35,Prélèvement,Validée
+2026-02-07,Déplacements,233.59,CB,Validée
+2026-02-07,Logiciels,46.22,CB,Validée
+2026-02-08,Déplacements,286.51,CB,Validée
+2026-02-08,Déplacements,138.93,CB,Validée
+2026-02-08,Formation,361.18,CB,À vérifier
+2026-02-09,Marketing,576.84,Prélèvement,À vérifier
+2026-02-09,Prestataires,1096.33,Virement,Validée
+2026-02-10,Marketing,673.18,Virement,Validée
+2026-02-10,Prestataires,793.28,CB,À vérifier
+2026-02-10,Logiciels,196.47,Virement,Validée
+2026-02-10,Formation,292.97,CB,À vérifier
+2026-02-11,Prestataires,1299.59,Virement,À vérifier
+2026-02-11,Prestataires,548.42,CB,Validée
+2026-02-11,Fournitures,68.86,Virement,Validée
+2026-02-11,Logiciels,168.52,CB,Validée
+2026-02-12,Fournitures,92.27,Virement,À vérifier
+2026-02-12,Déplacements,61.13,Prélèvement,Validée
+2026-02-13,Logiciels,53.57,Prélèvement,Validée
+2026-02-13,Prestataires,1101.86,Prélèvement,À vérifier
+2026-02-13,Prestataires,1167.87,Prélèvement,À vérifier
+2026-02-13,Prestataires,930.43,Prélèvement,Validée
+2026-02-14,Logiciels,136.1,CB,Validée
+2026-02-14,Déplacements,210.37,Prélèvement,Validée
+2026-02-14,Fournitures,64.1,Prélèvement,Validée
+2026-02-15,Déplacements,220.88,Virement,À vérifier
+2026-02-15,Prestataires,1100.44,Virement,Validée
+2026-02-15,Télécom,74.26,CB,Validée
+2026-02-15,Fournitures,75.58,Virement,Validée
+2026-02-16,Télécom,44.95,Virement,À vérifier
+2026-02-17,Déplacements,253.85,Virement,À vérifier
+2026-02-17,Prestataires,429.7,Virement,À vérifier
+2026-02-18,Marketing,580.39,Prélèvement,Validée
+2026-02-19,Formation,230.45,CB,Validée
+2026-02-20,Télécom,94.84,CB,Validée
+2026-02-20,Logiciels,128.26,CB,À vérifier
+2026-02-20,Télécom,94.59,CB,À vérifier
+2026-02-21,Logiciels,154.84,Prélèvement,Validée
+2026-02-22,Marketing,91.62,Prélèvement,Validée
+2026-02-22,Prestataires,765.25,CB,Validée
+2026-02-22,Prestataires,1244.99,Prélèvement,Validée
+2026-02-22,Marketing,736.88,CB,Validée
+2026-02-23,Télécom,63.36,Prélèvement,Validée
+2026-02-23,Marketing,437.35,CB,Validée
+2026-02-23,Formation,154.87,Virement,Validée
+2026-02-24,Logiciels,114.49,Virement,Validée
+2026-02-25,Logiciels,94.59,Prélèvement,Validée
+2026-02-25,Formation,231.3,Virement,À vérifier
+2026-02-25,Prestataires,947.78,Virement,Validée
+2026-02-26,Marketing,241.55,Prélèvement,Validée
+2026-02-27,Prestataires,1181.59,CB,Validée
+2026-02-27,Fournitures,100.99,Prélèvement,Validée
+2026-02-27,Logiciels,122.91,Prélèvement,Validée
+2026-02-28,Déplacements,245.65,CB,Validée
+2026-03-01,Déplacements,155.83,Prélèvement,Validée
+2026-03-01,Fournitures,54.8,Prélèvement,Validée
+2026-03-01,Déplacements,369.17,CB,Validée
+2026-03-02,Fournitures,77.18,Virement,Validée
+2026-03-03,Prestataires,1034.2,CB,À vérifier
+2026-03-03,Fournitures,54.03,Virement,Validée
+2026-03-03,Déplacements,237.18,Prélèvement,Validée
+2026-03-04,Formation,294.04,Prélèvement,Validée
+2026-03-04,Prestataires,978.01,Virement,Validée
+2026-03-04,Déplacements,267.16,Prélèvement,Validée
+2026-03-05,Télécom,90.26,CB,Validée
+2026-03-06,Logiciels,159.29,Virement,Validée
+2026-03-06,Logiciels,36.39,Prélèvement,Validée
+2026-03-06,Déplacements,288.93,Prélèvement,Validée
+2026-03-07,Logiciels,10.0,Virement,À vérifier
+2026-03-07,Formation,345.66,Virement,Validée
+2026-03-07,Prestataires,385.61,Prélèvement,Validée
+2026-03-08,Logiciels,153.21,Virement,À vérifier
+2026-03-08,Logiciels,91.09,Virement,Validée
+2026-03-08,Formation,198.13,Prélèvement,Validée
+2026-03-08,Formation,279.91,Prélèvement,Validée
+2026-03-09,Déplacements,332.04,Prélèvement,À vérifier
+2026-03-09,Déplacements,340.48,Prélèvement,Validée
+2026-03-10,Télécom,92.67,CB,Validée
+2026-03-10,Marketing,405.72,CB,À vérifier
+2026-03-11,Déplacements,159.43,CB,Validée
+2026-03-11,Télécom,86.93,Virement,Validée
+2026-03-11,Prestataires,802.64,Virement,Validée
+2026-03-12,Fournitures,110.87,Virement,À vérifier
+2026-03-12,Déplacements,242.82,Prélèvement,Validée
+2026-03-12,Fournitures,80.33,Prélèvement,Validée
+2026-03-13,Télécom,45.15,Virement,Validée
+2026-03-13,Fournitures,62.0,CB,Validée
+2026-03-13,Télécom,81.43,Virement,Validée
+2026-03-14,Marketing,472.06,Virement,Validée
+2026-03-15,Déplacements,234.47,CB,Validée
+2026-03-15,Logiciels,131.01,CB,Validée
+2026-03-15,Prestataires,417.19,Prélèvement,Validée
+2026-03-15,Déplacements,200.56,Virement,À vérifier
+2026-03-16,Formation,269.15,Prélèvement,Validée
+2026-03-16,Logiciels,203.89,Prélèvement,À vérifier
+2026-03-16,Fournitures,97.42,Virement,Validée
+2026-03-17,Formation,1630.75,Prélèvement,Validée
+2026-03-17,Prestataires,723.89,CB,Validée
+2026-03-17,Logiciels,102.21,Prélèvement,Validée
+2026-03-17,Formation,325.37,CB,À vérifier
+2026-03-18,Prestataires,1229.15,Virement,Validée
+2026-03-19,Prestataires,1010.99,Virement,À vérifier
+2026-03-19,Logiciels,49.2,Prélèvement,Validée
+2026-03-19,Logiciels,129.88,Prélèvement,Validée
+2026-03-20,Télécom,44.09,Prélèvement,Validée
+2026-03-20,Logiciels,94.21,Prélèvement,Validée
+2026-03-20,Télécom,323.6,Virement,À vérifier
+2026-03-21,Prestataires,3960.64,Prélèvement,Validée
+2026-03-21,Télécom,118.15,CB,Validée
+2026-03-21,Télécom,125.11,Prélèvement,À vérifier
+2026-03-22,Fournitures,80.22,CB,Validée
+2026-03-22,Télécom,48.83,CB,Validée
+2026-03-22,Marketing,238.48,CB,Validée
+2026-03-22,Formation,318.06,Prélèvement,À vérifier
+2026-03-23,Logiciels,145.84,CB,À vérifier
+2026-03-23,Prestataires,335.13,CB,Validée
+2026-03-24,Déplacements,206.59,Prélèvement,Validée
+2026-03-24,Logiciels,144.66,Virement,Validée
+2026-03-25,Déplacements,1635.62,Prélèvement,Validée
+2026-03-26,Formation,298.16,Virement,Validée
+2026-03-26,Marketing,485.72,Virement,Validée
+2026-03-27,Marketing,584.36,CB,Validée
+2026-03-28,Fournitures,98.58,Prélèvement,Validée
+2026-03-28,Marketing,646.27,CB,Validée
+2026-03-28,Télécom,90.78,CB,Validée
+2026-03-28,Prestataires,800.34,Virement,Validée
+2026-03-29,Déplacements,316.38,Virement,Validée
+2026-03-29,Prestataires,701.0,CB,À vérifier
+2026-03-30,Fournitures,137.2,CB,Validée
+2026-03-30,Formation,332.98,Virement,À vérifier
+2026-03-31,Logiciels,25.43,Prélèvement,Validée
+2026-03-31,Logiciels,22.55,Virement,Validée
+2026-04-01,Fournitures,125.06,Virement,Validée
+2026-04-01,Logiciels,117.61,CB,À vérifier
+2026-04-01,Prestataires,579.1,CB,À vérifier
+2026-04-01,Déplacements,269.86,CB,Validée
+2026-04-02,Logiciels,76.53,CB,Validée
+2026-04-03,Déplacements,99.61,Virement,Validée
+2026-04-04,Prestataires,545.87,Virement,Validée
+2026-04-04,Marketing,100.87,Prélèvement,Validée
+2026-04-05,Marketing,549.45,Prélèvement,Validée
+2026-04-05,Logiciels,72.98,Prélèvement,À vérifier
+2026-04-05,Logiciels,143.05,Prélèvement,Validée
+2026-04-05,Télécom,84.43,CB,À vérifier
+2026-04-06,Logiciels,51.97,Prélèvement,Validée
+2026-04-07,Fournitures,57.85,CB,Validée
+2026-04-07,Logiciels,159.1,Prélèvement,Validée
+2026-04-08,Logiciels,104.39,Prélèvement,À vérifier
+2026-04-08,Marketing,447.63,Virement,Validée
+2026-04-08,Fournitures,146.23,CB,Validée
+2026-04-09,Marketing,611.93,Prélèvement,Validée
+2026-04-09,Marketing,611.19,Virement,Validée
+2026-04-09,Logiciels,134.31,CB,Validée
+2026-04-10,Logiciels,96.64,Virement,Validée
+2026-04-10,Prestataires,1364.38,Prélèvement,Validée
+2026-04-11,Fournitures,90.38,Prélèvement,À vérifier
+2026-04-12,Prestataires,968.1,Prélèvement,Validée
+2026-04-13,Logiciels,116.65,Prélèvement,Validée
+2026-04-14,Fournitures,90.36,Virement,À vérifier
+2026-04-14,Télécom,74.32,CB,Validée
+2026-04-14,Marketing,369.43,Virement,Validée
+2026-04-14,Marketing,568.47,Prélèvement,À vérifier
+2026-04-15,Fournitures,123.37,CB,À vérifier
+2026-04-16,Marketing,352.12,CB,Validée
+2026-04-16,Déplacements,249.2,Virement,Validée
+2026-04-16,Fournitures,85.83,Prélèvement,À vérifier
+2026-04-16,Déplacements,236.73,Prélèvement,Validée
+2026-04-17,Fournitures,74.13,Prélèvement,À vérifier
+2026-04-18,Télécom,68.74,CB,Validée
+2026-04-19,Formation,249.47,CB,Validée
+2026-04-19,Télécom,88.91,CB,Validée
+2026-04-20,Déplacements,76.64,Virement,À vérifier
+2026-04-21,Fournitures,128.25,Virement,Validée
+2026-04-21,Prestataires,1314.53,Prélèvement,Validée
+2026-04-21,Télécom,58.92,CB,À vérifier
+2026-04-22,Logiciels,179.95,Virement,Validée
+2026-04-22,Logiciels,200.01,Prélèvement,Validée
+2026-04-22,Prestataires,822.24,Virement,Validée
+2026-04-22,Marketing,1056.3,Virement,Validée
+2026-04-23,Fournitures,78.6,Virement,Validée
+2026-04-23,Marketing,505.44,Virement,Validée
+2026-04-24,Logiciels,134.14,CB,Validée
+2026-04-24,Marketing,616.65,Prélèvement,Validée
+2026-04-25,Prestataires,874.98,CB,Validée
+2026-04-26,Marketing,265.12,Virement,Validée
+2026-04-26,Déplacements,216.41,CB,Validée
+2026-04-27,Formation,306.62,Virement,Validée
+2026-04-28,Logiciels,119.48,CB,Validée
+2026-04-28,Prestataires,841.68,Prélèvement,À vérifier
+2026-04-29,Formation,176.94,Prélèvement,Validée
+2026-04-30,Logiciels,172.29,CB,Validée
+2026-05-01,Télécom,56.67,CB,Validée
+2026-05-01,Logiciels,121.62,Virement,Validée
+2026-05-02,Télécom,61.07,Virement,Validée
+2026-05-03,Déplacements,250.01,CB,Validée
+2026-05-03,Prestataires,1322.51,Prélèvement,Validée
+2026-05-03,Logiciels,110.53,Prélèvement,Validée
+2026-05-04,Marketing,311.66,Virement,Validée
+2026-05-05,Déplacements,172.09,Virement,À vérifier
+2026-05-05,Télécom,120.22,Prélèvement,Validée
+2026-05-05,Marketing,170.86,Virement,Validée
+2026-05-06,Formation,312.52,CB,À vérifier
+2026-05-07,Déplacements,206.93,Virement,Validée
+2026-05-07,Déplacements,225.83,Virement,Validée
+2026-05-08,Formation,422.36,Prélèvement,À vérifier
+2026-05-09,Fournitures,53.75,CB,Validée
+2026-05-10,Logiciels,156.37,CB,À vérifier
+2026-05-10,Marketing,585.88,CB,Validée
+2026-05-11,Fournitures,100.58,Virement,À vérifier
+2026-05-11,Prestataires,10.0,Prélèvement,Validée
+2026-05-11,Logiciels,140.06,Virement,Validée
+2026-05-11,Logiciels,177.56,Virement,Validée
+2026-05-12,Prestataires,849.43,Virement,À vérifier
+2026-05-12,Marketing,522.93,Virement,Validée
+2026-05-12,Prestataires,5036.46,Virement,À vérifier
+2026-05-12,Marketing,370.12,Virement,Validée
+2026-05-13,Logiciels,115.54,CB,Validée
+2026-05-13,Formation,195.03,Virement,Validée
+2026-05-13,Déplacements,188.25,Prélèvement,Validée
+2026-05-13,Déplacements,255.68,Virement,Validée
+2026-05-14,Logiciels,150.89,Prélèvement,À vérifier
+2026-05-14,Logiciels,61.02,CB,À vérifier
+2026-05-15,Formation,268.22,Prélèvement,À vérifier
+2026-05-15,Marketing,758.87,Virement,Validée
+2026-05-15,Prestataires,817.35,Virement,À vérifier
+2026-05-16,Prestataires,886.05,Prélèvement,À vérifier
+2026-05-16,Déplacements,215.44,Virement,Validée
+2026-05-16,Déplacements,268.81,CB,Validée
+2026-05-17,Prestataires,738.48,CB,Validée
+2026-05-17,Logiciels,68.14,Virement,À vérifier
+2026-05-17,Prestataires,357.61,CB,À vérifier
+2026-05-17,Prestataires,865.52,CB,À vérifier
+2026-05-18,Logiciels,146.03,CB,Validée
+2026-05-18,Télécom,91.48,Prélèvement,Validée
+2026-05-19,Formation,71.08,Prélèvement,Validée
+2026-05-19,Prestataires,1161.05,CB,Validée
+2026-05-19,Déplacements,181.47,Prélèvement,Validée
+2026-05-20,Déplacements,219.89,Prélèvement,Validée
+2026-05-21,Formation,371.13,Virement,Validée
+2026-05-21,Fournitures,112.0,CB,Validée
+2026-05-22,Marketing,1398.56,Virement,À vérifier
+2026-05-22,Formation,199.66,Prélèvement,À vérifier
+2026-05-22,Prestataires,789.29,CB,À vérifier
+2026-05-23,Déplacements,333.35,Virement,Validée
+2026-05-24,Marketing,520.71,Virement,Validée
+2026-05-24,Déplacements,331.96,Virement,À vérifier
+2026-05-24,Télécom,61.96,Virement,Validée
+2026-05-25,Prestataires,1279.92,Virement,Validée
+2026-05-26,Prestataires,518.4,CB,Validée
+2026-05-27,Marketing,539.69,Prélèvement,Validée
+2026-05-27,Fournitures,71.52,Virement,Validée
+2026-05-28,Logiciels,113.65,Virement,À vérifier
+2026-05-28,Marketing,519.32,CB,Validée
+2026-05-28,Logiciels,55.17,Virement,Validée
+2026-05-28,Déplacements,174.1,CB,Validée
+2026-05-29,Prestataires,654.82,Prélèvement,Validée
+2026-05-29,Fournitures,139.74,Prélèvement,Validée
+2026-05-30,Formation,430.41,CB,Validée
+2026-05-30,Déplacements,266.07,Virement,Validée
+2026-05-30,Marketing,622.63,Prélèvement,À vérifier
+2026-05-31,Déplacements,284.7,Prélèvement,Validée
+2026-05-31,Prestataires,507.21,Prélèvement,Validée
+2026-05-31,Logiciels,123.32,Prélèvement,À vérifier
+2026-05-31,Logiciels,134.79,CB,Validée
+2026-06-01,Logiciels,120.13,CB,Validée
+2026-06-02,Logiciels,108.65,Prélèvement,Validée
+2026-06-02,Logiciels,109.76,Prélèvement,Validée
+2026-06-02,Télécom,72.63,Prélèvement,Validée
+2026-06-02,Logiciels,113.07,Prélèvement,Validée
+2026-06-03,Marketing,506.51,CB,Validée
+2026-06-03,Prestataires,1361.34,CB,Validée
+2026-06-03,Marketing,404.95,Virement,À vérifier
+2026-06-04,Logiciels,103.86,CB,Validée
+2026-06-04,Télécom,85.15,CB,Validée
+2026-06-04,Logiciels,96.42,Prélèvement,Validée
+2026-06-04,Déplacements,220.1,Virement,À vérifier
+2026-06-05,Télécom,40.3,Virement,Validée
+2026-06-05,Prestataires,774.25,CB,Validée
+2026-06-05,Fournitures,62.88,Virement,À vérifier
+2026-06-05,Prestataires,727.5,Virement,Validée
+2026-06-06,Déplacements,211.0,Virement,Validée
+2026-06-06,Prestataires,373.94,Virement,Validée
+2026-06-06,Déplacements,248.2,Virement,Validée
+2026-06-06,Marketing,649.57,Virement,Validée
+2026-06-07,Logiciels,119.55,CB,Validée
+2026-06-07,Télécom,90.23,Prélèvement,Validée
+2026-06-07,Télécom,122.89,Prélèvement,Validée
+2026-06-08,Logiciels,201.22,Prélèvement,Validée
+2026-06-08,Marketing,337.86,Virement,Validée
+2026-06-08,Logiciels,64.45,CB,Validée
+2026-06-08,Logiciels,115.7,Virement,Validée
+2026-06-09,Marketing,375.34,CB,Validée
+2026-06-09,Marketing,552.06,Prélèvement,Validée
+2026-06-09,Marketing,467.46,CB,À vérifier
+2026-06-09,Logiciels,62.12,CB,Validée
+2026-06-10,Logiciels,175.65,Virement,À vérifier
+2026-06-10,Prestataires,972.27,Prélèvement,Validée
+2026-06-11,Logiciels,142.01,CB,Validée
+2026-06-11,Formation,358.75,Prélèvement,À vérifier
+2026-06-11,Logiciels,72.84,CB,Validée
+2026-06-11,Déplacements,44.07,Prélèvement,Validée
+2026-06-12,Fournitures,90.84,Virement,Validée
+2026-06-12,Marketing,771.58,CB,À vérifier
+2026-06-12,Fournitures,143.03,Prélèvement,Validée
+2026-06-12,Déplacements,225.23,Virement,Validée
+2026-06-13,Formation,281.99,Prélèvement,Validée
+2026-06-13,Déplacements,336.79,Virement,Validée
+2026-06-13,Prestataires,634.2,Virement,Validée
+2026-06-13,Marketing,493.26,Virement,Validée
+2026-06-14,Prestataires,878.98,CB,À vérifier
+2026-06-14,Fournitures,88.44,CB,Validée
+2026-06-15,Télécom,98.54,CB,Validée
+2026-06-15,Prestataires,1307.25,Virement,À vérifier
+2026-06-16,Formation,234.52,Virement,À vérifier
+2026-06-16,Logiciels,188.04,CB,À vérifier
+2026-06-16,Logiciels,170.13,Virement,Validée
+2026-06-16,Déplacements,281.28,Prélèvement,Validée
+2026-06-17,Prestataires,455.4,Prélèvement,À vérifier
+2026-06-18,Fournitures,95.35,Virement,Validée
+2026-06-18,Prestataires,216.56,CB,Validée
+2026-06-18,Formation,134.56,Virement,À vérifier
+2026-06-18,Marketing,331.06,Prélèvement,À vérifier
+2026-06-19,Déplacements,23.95,Virement,À vérifier
+2026-06-19,Déplacements,200.67,Virement,À vérifier
+2026-06-19,Fournitures,128.84,Prélèvement,Validée
+2026-06-19,Déplacements,129.14,Prélèvement,À vérifier
+2026-06-20,Marketing,598.96,Prélèvement,Validée
+2026-06-21,Logiciels,135.79,Virement,Validée
+2026-06-21,Prestataires,3742.5,Virement,Validée
+2026-06-21,Déplacements,99.66,CB,Validée
+2026-06-21,Déplacements,242.56,Prélèvement,Validée
+2026-06-22,Marketing,171.35,CB,Validée
+2026-06-22,Formation,328.36,CB,Validée
+2026-06-23,Formation,349.2,Virement,Validée
+2026-06-23,Télécom,74.01,Virement,Validée
+2026-06-23,Déplacements,253.8,CB,Validée
+2026-06-23,Formation,542.53,Virement,Validée
+2026-06-24,Marketing,480.9,Prélèvement,Validée
+2026-06-25,Formation,164.35,Prélèvement,Validée
+2026-06-26,Télécom,93.05,CB,Validée
+2026-06-26,Télécom,68.51,Virement,Validée
+2026-06-27,Déplacements,290.56,CB,À vérifier
+2026-06-27,Marketing,433.55,Virement,Validée
+2026-06-28,Logiciels,172.32,Prélèvement,Validée
+2026-06-29,Télécom,103.22,Virement,À vérifier
+2026-06-29,Formation,297.45,Prélèvement,À vérifier
+2026-06-29,Fournitures,95.58,Prélèvement,À vérifier
