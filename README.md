@@ -4,8 +4,9 @@ Application métier de gestion financière conçue pour démontrer le passage d'
 
 ## Démo
 
-L'application est conçue pour être déployée sur Streamlit Community Cloud à partir de ce dépôt.
+🔗 [Tester l'application en ligne](https://aifinance-copilot-zbsrax22ysfuskumtucx9s.streamlit.app/)
 
+AI-powered financial management copilot for expense analysis, anomaly detection and natural-language insights.
 ## Fonctionnalités
 
 - Import CSV / Excel
